@@ -36,7 +36,7 @@ The application follows a standard digital image processing workflow to identify
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/object-counter.git
+    git clone https://github.com/amn3m/Automated-Object-Counter.git
     ```
 2.  **Install the dependencies:**
     ```bash
