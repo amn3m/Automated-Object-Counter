@@ -32,24 +32,6 @@ The application follows a standard digital image processing workflow to identify
     *   **OpenCV:** For all core image processing tasks (preprocessing, thresholding, contour detection) and video stream handling.
     *   **Tkinter (or similar):** For creating the graphical user interface.
 
-## How to Use
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/amn3m/Automated-Object-Counter.git
-    ```
-2.  **Install the dependencies:**
-    ```bash
-    pip install opencv-python
-    ```
-3.  **Run the application:**
-    ```bash
-    python main.py
-    ```
-4.  **Using the GUI:**
-    *   Click the **"Upload Image"** button to select an image file from your computer. The application will process it and display the result.
-    *   Click the **"Start Video Stream"** button to begin real-time object counting using your webcam.
-
 ## Sample Result
 
 Here is a sample screenshot of the application after processing an image of coins.
