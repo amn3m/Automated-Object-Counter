@@ -1,4 +1,4 @@
-# Object Counter Application using Digital Image Processing
+# Automated Object Counter Application using Digital Image Processing
 
 This project is an automated object counting application that leverages fundamental digital image processing techniques to count objects in both static images and real-time video streams. It was developed to provide a fast, accurate, and efficient alternative to traditional manual counting methods.
 
